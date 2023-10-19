@@ -1,0 +1,345 @@
+*{
+  text-transform: capitalize;
+
+}
+  .navbar {
+    background-color: #333;
+    color:white;
+    padding: 10px 20;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    font-size: 50px;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+   align-items: center;
+   flex-grow: 1;
+   padding: 0 60px;
+ 
+  }
+  
+  .nav-links li {
+    margin-right: 20px;
+  }
+  
+  .nav-links a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    font-size: 18px;
+  }
+  
+  .nav-links a:hover {
+    color: #FF5733; /* Change the color on hover */
+  }
+  .mytext{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:100px;
+     
+   
+  }
+  .cardcover3{
+    width: 100%;
+    padding:100px;
+    height: 400px;
+    background-size: cover; 
+  }
+  .cardcover3{
+    padding: 120px;
+  }
+.num{
+  font-size: 35px;
+  font-weight: 25;
+  font-family:calc() ;
+  background-color: antiquewhite;
+  width: 100%;
+}
+/* .rum{
+  padding-left: 55%;
+  font-style: oblique;
+  font-size: medium;
+} */
+.nim{
+  font-size: 20px;
+  font-weight: 20;
+  font-family:calc() ;
+  
+}
+.rim{
+  font-size: 30px;
+ font-weight: 25;
+  font-family:calc() ;
+  background-color: antiquewhite;
+ 
+}
+.cards{
+  padding: 100px 0;
+  background-size:1500px;
+  background-position: -500px;
+  background-repeat: no-repeat;
+ flex: auto;
+  transform: 0.1s;
+  background-image:-o-linear-gradient(100) ;
+  border-image-width: 200;
+   width: 100%;
+   /* background-color: azure; */
+
+}
+.hunk{
+  font-family: calc();
+  padding-top: 40px;
+
+}
+.nav-links{
+  gap: 30px;
+}
+.logo p{
+  font-size: 20px;
+  text-align: center;
+}
+.life{
+  color: cadetblue;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 70px;
+}
+.h1{
+  margin-left: 1000px;
+}
+.nail{
+  width: 100%; font-size: 30px;
+  font-weight:40;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  justify-content: center;
+  align-items: center;
+  background-color: antiquewhite;
+
+}
+.border{
+  width: 500px;
+}
+.ma{
+  width: 500px; font-size: 15px;
+  font-weight: 25;
+  font-family:calc() ;
+}
+.cardcover4{
+width:100%;
+padding: 100px;
+height: 500px;
+/* background-repeat: no-repeat;     */
+background-size: cover;
+
+
+}
+
+
+.about{
+  height:20vh;
+  width: 100%;
+  display: flex;
+ font-family:cursive;
+font-weight:100;
+  justify-content: center;
+  align-items: center;
+  font-size: 100px;
+  color:beige;
+  
+
+} 
+
+ .lif{
+  color:cadetblue;
+  font-family: 'Times New Roman', Times, serif;
+ font-size: 200px;
+  font-weight: bold;
+  height: 40vh;
+  padding: 0 20px;
+ }
+
+ .aboy{
+  font-family:cursive;
+font-weight:50;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  color:beige;
+  text-align: center;
+  padding-left: 700px;
+
+ }
+
+ .heyy{
+  width:100%;
+padding: 100px;
+height:1100px;
+background-size: cover;
+ }
+
+ .hey1{
+  /* height:20vh; */
+  /* width: 100%; */
+  /* display: flex; */
+ font-family:cursive;
+font-weight:100;
+  /* justify-content: center; */
+  /* align-items: center; */
+  font-size: 50px;
+  color:beige;
+  
+ }
+
+
+ .hey2{
+  font-family:calc();
+font-weight:60;
+font-size: 30px;
+color:beige;
+padding-left:170px;
+padding-bottom: 50px;
+ }
+
+ .border{
+  width: 100%;
+ }
+
+
+ .hey3{
+  font-family:calc();
+  font-weight:60;
+  font-size: 30px;
+  color:beige;
+  padding-top: 100px;
+  padding-bottom: 60px;
+ }
+
+ .hey4{
+  font-family:serif;
+  font-weight:60;
+  font-size: 60px;
+  color:beige;
+  padding-top: 40px;
+  padding-left: 60px;
+ }
+
+ .cont{
+  font-size: 100px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight:400;
+ }
+
+ .cons{
+  font-size: 35px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  padding-top: 50px;
+  font-family: inherit;
+  font-weight: 200;
+ }
+ .con{
+  font-size: 30px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  font-family: inherit;
+  font-weight: 100;
+ }
+
+
+ .id{
+  text-transform: none;
+  justify-content: center;
+  text-align: center;
+  padding-top: 80px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+
+ .id2{
+  justify-content: center;
+  text-align: center;
+  padding-top: 50px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 70px;
+ }
+
+ .sec1{
+  font-family: calc();
+  font-weight: 100;
+  font-size: 40; padding-top: 25px;
+ }
+ .sec2{
+  font-family: calc();
+  font-weight: 100;
+  font-size: 40; 
+ }
+
+ .cardcover4{
+  width: 100%;
+  padding:100px;
+  height: 500px;
+  background-size: cover; 
+ }
+ 
+ /* .cardcover5{
+  width: 100%;
+  padding:100px;
+  height: 500px;
+  background-size: cover;
+ } */
+
+ .happy{
+  padding-top: 300px;
+ }
+
+ .happy1{
+  padding-bottom: 400px;
+ }
+   
+
+ .happy2{
+  padding-left: 20px;
+  padding-right: 20px;
+ }
+ 
+
+ .cardcover5{
+  width:100%;
+padding: 100px;
+height: 700px;
+/* background-repeat: no-repeat;     */
+background-size: cover;
+
+ }
+
+ .nail1{
+  width: 100%; font-size: 30px;
+  font-weight:40;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  justify-content: center;
+  align-items: center;
+background-color: antiquewhite;
+ }
+
+ .gapp{
+  padding-top: 100px;
+ }
+
+ .cards1{
+  padding: 100px;
+  background-repeat:no-repeat;
+  height: 1000px;
+  background-size: 1000px;
+
+ }
+ 
